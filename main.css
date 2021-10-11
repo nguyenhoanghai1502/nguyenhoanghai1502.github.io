@@ -1,0 +1,8 @@
+@media screen and (max-width: 768px) {
+    .search-form{
+        width: 100%;
+    }
+}
+input{
+    box-sizing: border-box;
+}
